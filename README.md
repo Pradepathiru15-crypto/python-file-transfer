@@ -18,7 +18,7 @@ A simple file transfer system using Python socket programming with TCP.
 Open a terminal/command prompt and run:
 
 ```bash
-cd C:\Users\Pradepathiru\.gemini\antigravity\scratch\file_transfer_system
+ cd python-file-transfer
 python server.py
 ```
 
@@ -38,7 +38,7 @@ You should see:
 Open another terminal/command prompt and run:
 
 ```bash
-cd C:\Users\Pradepathiru\.gemini\antigravity\scratch\file_transfer_system
+cd python-file-transfer
 python client.py
 ```
 
@@ -106,3 +106,4 @@ You can modify these settings at the top of each file:
 2. **"Connection refused"** - Make sure the server is running before starting the client.
 
 3. **"File not found"** - Check that the file path is correct. Use full absolute paths.
+
