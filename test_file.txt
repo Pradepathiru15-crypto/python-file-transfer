@@ -1,0 +1,11 @@
+Hello! This is a test file for the File Transfer System.
+Created on: January 26, 2026
+
+This file will be sent from the client to the server using TCP sockets.
+The transfer happens in chunks of 1024 bytes.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+
+=== Transfer Complete! ===
